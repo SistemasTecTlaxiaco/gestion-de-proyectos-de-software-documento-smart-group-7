@@ -10,9 +10,8 @@
 > **Marco de Trabajo:** eduScrum (Sprint 3)  
 > **Equipo Evaluado:** Grupo 7  
 > **Repositorio de Referencia Técnica:** [`gestion-de-proyectos-de-software-informe-de-estandares-de-ca-group-4`](https://github.com/SistemasTecTlaxiaco/gestion-de-proyectos-de-software-informe-de-estandares-de-ca-group-4.git)  
-> **Repositorio Oficial del Entregable:** [`gestion-de-proyectos-de-software-documento-smart-group-7`](https://github.com/SistemasTecTlaxiaco/gestion-de-proyectos-de-software-documento-smart-group-7.git)  
-> **eduScrum Master:** Lizeth Nallely López García  
-> **Fecha:** 14 Octubre 2026  
+> **Repositorio Oficial del Entregable:** [`gestion-de-proyectos-de-software-documento-smart-group-7`](https://github.com/SistemasTecTlaxiaco/gestion-de-proyectos-de-software-documento-smart-group-7.git) 
+> **Fecha:** 10 Octubre 2026  
 
 ---
 
